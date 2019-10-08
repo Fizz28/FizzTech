@@ -1,0 +1,103 @@
+html{
+    
+    font-size: 16px;
+}
+
+
+
+body{
+    background-color: white;
+    font-family: monospace sans-serif;
+    text-align: center;
+
+}
+
+
+p{
+line-height: 1.6em;
+}
+
+.container {
+     
+    align-items: center;
+    font-size: 20px;
+    background-color: rgba(207, 82, 92, 0.884);  
+    padding:2em;
+    margin-right:0em;
+    margin-bottom:1%;
+
+ 
+}
+
+
+.container a{
+    text-decoration: none;
+    padding:10px;
+    border: 1px solid black;
+    margin: 0px 5px;
+    float: center;
+    
+}
+
+.container a:hover {
+    background-color: red;
+    border: 1px solid white;
+    box-shadow: 0 3px 6px black;
+    color: white;
+}
+
+
+ul {
+    list-style-type: none;
+    padding:2x;
+    display: inline;
+    display:flex;
+}
+
+ol{
+    list-style-type: none;
+
+}
+
+hr{
+    text-align: center;
+}
+
+
+
+.Trainee{
+
+    float: left;
+    width: 20%;
+    padding left: 5px;
+
+    
+}
+
+
+.Fizz{
+    border-radius: 60%;
+    float:left;
+    display:flex;
+    flex-direction: column;
+
+.blue container{
+    width:100%;
+    background:red;
+}
+
+}
+
+.logo{
+    fill-opacity: inherit;
+
+}
+
+.Testing{
+    float: center;
+}
+
+
+.Greenlight{
+    color:red;
+}
